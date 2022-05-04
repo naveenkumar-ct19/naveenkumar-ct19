@@ -2,7 +2,6 @@
 <h3 align="center">Computer Technology Student</h3>
 <img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naveenkumar-ct19&label=Profile%20views&color=0e75b6&style=flat" alt="naveenkumar-ct19" /> </p>
 
 <p align="left"> <a href="https://twitter.com/naveenk75904231" target="blank"><img src="https://img.shields.io/twitter/follow/naveenk75904231?logo=twitter&style=for-the-badge" alt="naveenk75904231" /></a> </p>
 
