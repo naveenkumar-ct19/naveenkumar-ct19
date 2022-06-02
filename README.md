@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> I'm 𝐍𝐀𝐕𝐄𝐄𝐍 𝐊𝐔𝐌𝐀𝐑 𝐀</h1>
 <h3 align="center">Computer Technology Student</h3>
-<img align="right" alt="coding" width="400" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif">
+<img align="right" alt="coding" width="400" src="https://www.codelare.com/public/images/gifs/own-cloud.gif">
 
 
 <p align="left"> <a href="https://twitter.com/naveenk75904231" target="blank"><img src="https://img.shields.io/twitter/follow/naveenk75904231?logo=twitter&style=for-the-badge" alt="naveenk75904231" /></a> </p>
