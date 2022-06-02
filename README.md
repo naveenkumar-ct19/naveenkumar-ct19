@@ -1,4 +1,4 @@
-<h1 align="center">Hey there, <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" /> I'm 𝐍𝐀𝐕𝐄𝐄𝐍 𝐊𝐔𝐌𝐀𝐑 𝐀</h1>
+<h1 align="center">Hey there, <img width="35px" height="35px" src="https://c.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" /> I'm 𝐍𝐀𝐕𝐄𝐄𝐍 𝐊𝐔𝐌𝐀𝐑 𝐀</h1>
 <h3 align="center">Computer Technology Student</h3>
 <img align="right" alt="coding" width="400" src="https://www.codelare.com/public/images/gifs/own-cloud.gif">
 
